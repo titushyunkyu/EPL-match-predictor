@@ -15,6 +15,8 @@ This project is an English Premier League (EPL) match predictor that uses histor
 ## Introduction
 
 The EPL Match Predictor uses historical data to predict the outcomes of upcoming EPL matches. The project includes web scraping scripts to gather the latest match data, preprocess the data, train a machine learning model, and make predictions for future matches.
+![image](https://github.com/user-attachments/assets/03cfb6fe-1d00-46cb-89d2-3841629ef5c5)
+
 
 ## Features
 
